@@ -1,2 +1,3 @@
+## How to make it work:
 
-- Just destroys your computer.
+- Open it.
